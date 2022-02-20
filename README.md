@@ -1,2 +1,2 @@
 # exercicios.java
-Atividades desenvolvidas em JAVA
+Atividades desenvolvidas em JAVA na matéria de Processamento da Informação(UFABC)
